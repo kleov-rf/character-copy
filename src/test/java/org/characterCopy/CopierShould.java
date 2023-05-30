@@ -11,7 +11,7 @@ public class CopierShould {
         var destination = mock(Destination.class);
         var source = mock(Source.class);
 
-        when(source.getChar()).thenReturn(' ');
+        when(source.getChar()).thenReturn('\n');
 
         Copier copier = new Copier(source, destination);
         copier.copy();
