@@ -7,7 +7,6 @@
     <list default="true" id="78bed88a-e007-4c61-bb6e-1cc0e47ff474" name="Changes" comment="Initial commit.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/characterCopy/DestinationSpy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/characterCopy/DestinationSpy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/characterCopy/CopierShould.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/characterCopy/CopierShould.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685440667095</updated>
-      <workItem from="1685440670677" duration="1707000" />
+      <workItem from="1685440670677" duration="2399000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1685441551455</created>
