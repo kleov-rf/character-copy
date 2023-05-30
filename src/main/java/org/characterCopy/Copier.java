@@ -1,6 +1,7 @@
 package org.characterCopy;
 
 public class Copier {
+    public static final char NEW_LINE = '\n';
     private final Source source;
     private final Destination destination;
 
@@ -11,6 +12,8 @@ public class Copier {
 
     public void copy() {
         char characterToCopy = source.getChar();
-        destination.setChar(characterToCopy);
+        if (characterToCopy != NEW_LINE) {
+            destination.setChar(characterToCopy);
+        }
     }
 }

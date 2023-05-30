@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="78bed88a-e007-4c61-bb6e-1cc0e47ff474" name="Changes" comment="Initial commit.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/characterCopy/Copier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/characterCopy/Copier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/characterCopy/DestinationSpy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/characterCopy/DestinationSpy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/characterCopy/CopierShould.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/characterCopy/CopierShould.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +94,31 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.CopierShould">
+    <configuration name="CopierShould" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;org.characterCopy.CopierShould&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
     <configuration name="CopierShould.read_characters_from_source_and_copy_to_destination" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -120,6 +145,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CopierShould" />
         <item itemvalue="Gradle.CopierShould.read_characters_from_source_and_copy_to_destination" />
       </list>
     </recent_temporary>
@@ -132,7 +158,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685440667095</updated>
-      <workItem from="1685440670677" duration="2399000" />
+      <workItem from="1685440670677" duration="7653000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1685441551455</created>
