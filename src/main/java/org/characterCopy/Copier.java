@@ -1,11 +1,10 @@
 package org.characterCopy;
 
 public class Copier {
-    private final SourceStub source;
-    private final DestinationSpy destination;
+    private final Source source;
+    private final Destination destination;
 
-    public Copier(SourceStub source, DestinationSpy destination) {
-
+    public Copier(Source source, Destination destination) {
         this.source = source;
         this.destination = destination;
     }
